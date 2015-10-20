@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1445361944 source:/home/vineeth/Workspace/CPP/Pagerank/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"Pagerank.h"
+
+1445365665 /home/vineeth/Workspace/CPP/Pagerank/include/Pagerank.h
+	<vector>
+	<iostream>
+	<cstdlib>
+
+1445362170 source:/home/vineeth/Workspace/CPP/Pagerank/src/Pagerank.cpp
+	"Pagerank.h"
+	<fstream>
+
